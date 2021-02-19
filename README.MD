@@ -1,11 +1,9 @@
 # AREM-PARCIAL1
 
-# StatCalc
-
 implementacion de un servicio web desplegado en heroku, que calcula el coseno, seno o tangente.
 
 ## Comenzando 🚀
-puede desplegar la aplicacion [aqui]()
+puede desplegar la aplicacion [aqui](https://safe-thicket-75760.herokuapp.com/ )
 
 ### Pre-requisitos 📋
 como prerrequisito debemos tener instalado:
